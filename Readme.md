@@ -688,7 +688,7 @@ EJS'yi Node.js projenize şu şekilde dahil edebilirsiniz:
 npm install mongodb
 npm install -g mongodb
 
-username:  hamitmizrak
+username:  boraguneral
 password:  cNrT66n13oQYtkps
 
 mongodb+srv://<your-name>:<your-password>@offlinenodejscluster.l3itd.mongodb.net/?retryWrites=true&w=majority&appName=OfflineNodejsCluster
@@ -718,7 +718,7 @@ DİKKATT: .env root dizinde olamlıdır.
 npm install dotenv
 
 .env
-MONGO_USERNAME=hamitmizrak
+MONGO_USERNAME=boraguneral
 MONGO_PASSWORD=<your-password>
 
 index.js
